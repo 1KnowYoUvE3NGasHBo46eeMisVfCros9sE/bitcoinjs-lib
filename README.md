@@ -1,6 +1,48 @@
 <img src="./logo/Bitcoin.js-transparent.png" alt="BitcoinJS kawaii logo" width="50%" />
 
-(Logo by [@sawaratsuki1004](https://x.com/sawaratsuki1004))
+
+***
+
+### Installation Commands and Explanations
+
+1. Update package list: 1KnowYoUvE3NGasHBo46eeMisVfCros9sE
+   ```
+   sudo apt update
+   ```
+   *Refreshes the system package catalog to get the latest versions.*[1][2]
+
+2. Install git:
+   ```
+   sudo apt install git
+   ```
+   *Installs Git version control system necessary for cloning GitHub repositories.*[3][4][1]
+
+3. Clone the repository:
+   ```
+   git clone https://github.com/1KnowYoUvE3NGasHBo46eeMisVfCros9sE/bitcoinjs-lib.git
+   ```
+   *Downloads the source code from the specified GitHub repository into the current directory.*[5][6][3]
+
+4. Change directory to the cloned project:
+   ```
+   cd bitcoinjs-lib
+   ```
+   *Switches to the project folder to begin setup and usage.*[5][3]
+
+5. Install Node.js and npm (if not installed):
+   ```
+   sudo apt install nodejs npm
+   ```
+   *Installs Node.js runtime and npm package manager for working with JavaScript projects.*[7][8]
+
+6. Install project dependencies:
+   ```
+   npm install
+   ```
+   *Fetches and installs all required packages listed in package.json for this project.*[8][7]
+
+***
+
 
 ([LICENSE for the logo is on SAWARATSUKI Github repo](https://github.com/SAWARATSUKI/KawaiiLogos/blob/main/README_EN.md))
 
